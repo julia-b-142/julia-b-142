@@ -1,4 +1,6 @@
 # 👋 Olá, bem-vindos ao meu GitHub!
+- 👤 Sou Júlia Barbosa, estudante de Análise e Desenvolvimento de Sistemas. Estou em transição de carreira, com uma base sólida em suporte administrativo e técnico buscando aplicar e ampliar conhecimentos na área de TI. Minha trajetória combina: organização, criatividade, resiliência e a busca constante por aprendizado, o que me permite atuar de forma eficaz em ambientes dinâmicos, versáteis e desafiadores.
+  
 - 🔧 Este perfil está em manutenção ...
 
 
